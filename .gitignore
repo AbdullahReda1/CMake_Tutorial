@@ -13,4 +13,6 @@ CMakeUserPresets.json
 
 
 # Others
+build/
 .vscode/
+*.exe
