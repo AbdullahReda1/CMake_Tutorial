@@ -1,0 +1,5 @@
+/* ProjectWorkSpaceConfig.h.in */
+
+// The configured project version
+#define PROJECT_VERSION_MAJOR       @ProjectWorkSpace_VERSION_MAJOR@
+#define PROJECT_VERSION_MINOR       @ProjectWorkSpace_VERSION_MINOR@
